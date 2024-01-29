@@ -1,9 +1,0 @@
-{
-    "domain": "thumus.eu",
-    "api_domain": "api.thumus.eu",
-    "docs_domain": "docs.thumus.eu",
-    "serving_domain": "serv.thumus.eu",
-    "firstTime": true,
-    "https": true,
-    "port": 443
-}
